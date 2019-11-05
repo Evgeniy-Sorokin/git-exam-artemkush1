@@ -40,3 +40,4 @@ Vadim Izbekov <vadim_izbekov@mail.ru>
 Valentin Eremin <valentiner0500@gmail.com>
 Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
 Zhivopistsev Alexander <azh253@gmail.com>
+Lukash Dmitry <dalukash@edu.hse.ru>
