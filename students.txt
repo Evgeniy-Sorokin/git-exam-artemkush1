@@ -10,3 +10,4 @@ Albert Khabibullin <Gerbonit@yandex.ru>
 arpolkin <arpolkin@gmail.com>
 maxkway <bakolavro@ya.ru>
 Kirill <sikamov.kirill@mail.ru>
+Konstantin Turyshev <turyshev.konstantin@gmail.com>
