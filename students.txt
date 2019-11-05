@@ -1,5 +1,9 @@
 Konstantin Malanchev <hombit@gmail.com>
+<<<<<<< HEAD
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 Sergey Zakharov <n3ffar1an@gmail.com>
 DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
 Artem <artemkush1@gmail.com>
+=======
+molotkova <molotkova548@gmail.com>
+>>>>>>> 3001f8d0de50bf72cc50343e815a80ec52c59cc9
