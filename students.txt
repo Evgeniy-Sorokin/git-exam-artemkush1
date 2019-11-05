@@ -16,6 +16,7 @@ Fandas Sadykov <sadykov.fandas@gmail.com>
 Fedor Zavyalov <fedruch@gmail.com>
 Ioann Fedorov <iefedorov@edu.hse.rux>
 Just-say-meow <alexissovet@gmail.com>
+Kirill Mozhaev <kamozhaev@edu.hse.ru>
 Kirill Shohin <tima.tima1977@mail.ru>
 Kirill <sikamov.kirill@mail.ru>
 Konstantin Malanchev <hombit@gmail.com>
@@ -31,6 +32,7 @@ nickolay ipatov <nnipatov@gmail.com>
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 palikhacheva <palikhacheva@edu.hse.ru>
 pavel_eprines <longnicakek@gmail.com>
+PolinaVin <polinvin@mail.ru>
 Sergey Zakharov <n3ffar1an@gmail.com>
 Sofya <sofyalopatina00@gmail.com>
 TheAD <theadwbe@gmail.com>
