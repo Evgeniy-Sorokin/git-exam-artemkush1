@@ -1,1 +1,2 @@
 Konstantin Malanchev <hombit@gmail.com>
+Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
