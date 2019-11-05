@@ -4,24 +4,19 @@ molotkova <molotkova548@gmail.com>
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 Sergey Zakharov <n3ffar1an@gmail.com>
 DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
-Artem <artemkush1@gmail.com>
-molotkova <molotkova548@gmail.com>
 Albert Khabibullin <Gerbonit@yandex.ru>
 arpolkin <arpolkin@gmail.com>
 maxkway <bakolavro@ya.ru>
 Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Sofya <sofyalopatina00@gmail.com>
 Alexander Vishnevskiy <mrflowy043@gmail.com>
-Sergey Zakharov <n3ffar1an@gmail.com>
 mzhigalov <mzigalov089@mail.ru>
 Kirill <sikamov.kirill@mail.ru>
-Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Vadim Izbekov <vadim_izbekov@mail.ru>
 Dmitry Nesterov <danesterov@edu.hse.ru>
 Kosyrev Michail <kosyrevmisha@gmai.com>
 Eugene <Z.shekotihin.2012@yandex.ru>
 Kovalev Oleg <oakovalyov@edu.hse.ru>
-Sofya <sofyalopatina00@gmail.com>
 Valentin Eremin <valentiner0500@gmail.com>
 matt_hew <matvey.rakitin@gmail.com>
 TheAD <theadwbe@gmail.com>
@@ -29,7 +24,6 @@ Alexandra Baranova <palkovna2017@gmail.com>
 Andreysak <heza123@mail.ru>
 pavel_eprines <longnicakek@gmail.com>
 maxsalo12 <46759665+maxsalo12@users.noreply.github.com>
-Alexander Vishnevskiy <mrflowy043@gmail.com>
 Fandas Sadykov <sadykov.fandas@gmail.com>
 PolinaVin <polinvin@mail.ru>
 Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
