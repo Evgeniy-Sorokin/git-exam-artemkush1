@@ -1,5 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 Sergey Zakharov <n3ffar1an@gmail.com>
 DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
@@ -10,7 +9,4 @@ arpolkin <arpolkin@gmail.com>
 maxkway <bakolavro@ya.ru>
 Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Sofya <sofyalopatina00@gmail.com>
-=======
 Alexander Vishnevskiy <mrflowy043@gmail.com>
-
->>>>>>> 755166f8db5100135e1c9d9180c127787a07622f
