@@ -23,6 +23,7 @@ Konstantin Malanchev <hombit@gmail.com>
 Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Kosyrev Michail <kosyrevmisha@gmai.com>
 Kovalev Oleg <oakovalyov@edu.hse.ru>
+Lukash Dmitry <dalukash@edu.hse.ru>
 matt_hew <matvey.rakitin@gmail.com>
 maxkway <bakolavro@ya.ru>
 maxsalo12 <46759665+maxsalo12@users.noreply.github.com>
@@ -40,4 +41,3 @@ Vadim Izbekov <vadim_izbekov@mail.ru>
 Valentin Eremin <valentiner0500@gmail.com>
 Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
 Zhivopistsev Alexander <azh253@gmail.com>
-Lukash Dmitry <dalukash@edu.hse.ru>
