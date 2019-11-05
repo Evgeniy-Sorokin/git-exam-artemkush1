@@ -1,5 +1,7 @@
 Konstantin Malanchev <hombit@gmail.com>
 Just-say-meow <alexissovet@gmail.com>
+Artem <artemkush1@gmail.com>
+molotkova <molotkova548@gmail.com>
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 Sergey Zakharov <n3ffar1an@gmail.com>
 DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
@@ -8,3 +10,10 @@ molotkova <molotkova548@gmail.com>
 Albert Khabibullin <Gerbonit@yandex.ru>
 arpolkin <arpolkin@gmail.com>
 Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
+maxkway <bakolavro@ya.ru>
+Kirill <sikamov.kirill@mail.ru>
+Konstantin Turyshev <turyshev.konstantin@gmail.com>
+Vadim Izbekov <vadim_izbekov@mail.ru>
+Dmitry Nesterov <danesterov@edu.hse.ru>
+Kosyrev Michail <kosyrevmisha@gmai.com>
+Eugene <Z.shekotihin.2012@yandex.ru>
