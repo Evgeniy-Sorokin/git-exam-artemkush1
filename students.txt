@@ -15,3 +15,4 @@ Vadim Izbekov <vadim_izbekov@mail.ru>
 Dmitry Nesterov <danesterov@edu.hse.ru>
 Kosyrev Michail <kosyrevmisha@gmai.com>
 Eugene <Z.shekotihin.2012@yandex.ru>
+Kovalev Oleg <oakovalyov@edu.hse.ru>
