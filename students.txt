@@ -1,4 +1,3 @@
->>>>>>> 70094d13f11d13b92c8814299b806f8b7ba68df9
 Albert Khabibullin <Gerbonit@yandex.ru>
 Alexander Vishnevskiy <mrflowy043@gmail.com>
 Alexandra Baranova <palkovna2017@gmail.com>
