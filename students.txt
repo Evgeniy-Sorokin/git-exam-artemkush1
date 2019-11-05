@@ -16,3 +16,4 @@ Eugene <Z.shekotihin.2012@yandex.ru>
 Alexander Vishnevskiy <mrflowy043@gmail.com>
 Dmitry Nesterov <danesterov@edu.hse.ru>
 Fandas Sadykov <sadykov.fandas@gmail.com>
+Victor Frantsuzov <vafrantsuzov@edu.hse.ru>
