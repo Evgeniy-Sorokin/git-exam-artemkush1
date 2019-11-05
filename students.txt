@@ -24,6 +24,7 @@ Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Kosyrev Michail <kosyrevmisha@gmai.com>
 Kovalev Oleg <oakovalyov@edu.hse.ru>
 Lukash Dmitry <dalukash@edu.hse.ru>
+Marya Deniskina <maryadns@yandex.ru>
 matt_hew <matvey.rakitin@gmail.com>
 maxkway <bakolavro@ya.ru>
 maxsalo12 <46759665+maxsalo12@users.noreply.github.com>
