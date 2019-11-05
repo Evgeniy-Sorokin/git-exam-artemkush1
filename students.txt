@@ -1,6 +1,11 @@
 Konstantin Malanchev <hombit@gmail.com>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 =======
 Sergey Zakharov <n3ffar1an@gmail.com>
 >>>>>>> dcf52c0b3a43480942672859ae9f02fdca5dcd23
+=======
+DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
+Sergey Zakharov <n3ffar1an@gmail.com>
+>>>>>>> 3d678e2372a304cfa7ded6537899b541eacd18d3
