@@ -1,3 +1,4 @@
+>>>>>>> 70094d13f11d13b92c8814299b806f8b7ba68df9
 Albert Khabibullin <Gerbonit@yandex.ru>
 Alexander Vishnevskiy <mrflowy043@gmail.com>
 Alexandra Baranova <palkovna2017@gmail.com>
@@ -5,9 +6,12 @@ Anastasiya Osipova <osipova1999@gmail.com>
 Andreysak <heza123@mail.ru>
 Annie <ananasokeanov@gmail.com>
 Antonina Arckhipova <tonya_arkhipova2000@mail.ru>
+Antonina Arckhipova <tonya_arkhipova2000@mail.ru>
 arpolkin <arpolkin@gmail.com>
 Artem <artemkush1@gmail.com>
+Artem <artemkush1@gmail.com>
 Darya Bykova <bykova.darya2000@gmail.com>
+DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
 DbIXAHUEOKEAHA <mishanya2202@yandex.ru>
 Dmitry Nesterov <danesterov@edu.hse.ru>
 Elena Tropina <tropina.elenka1@gmail.com>
@@ -20,21 +24,27 @@ Kirill Mozhaev <kamozhaev@edu.hse.ru>
 Kirill Shohin <tima.tima1977@mail.ru>
 Kirill <sikamov.kirill@mail.ru>
 Konstantin Malanchev <hombit@gmail.com>
+Konstantin Malanchev <hombit@gmail.com>
 Konstantin Turyshev <turyshev.konstantin@gmail.com>
 Kosyrev Michail <kosyrevmisha@gmai.com>
 Kovalev Oleg <oakovalyov@edu.hse.ru>
 Lukash Dmitry <dalukash@edu.hse.ru>
+Lukash Dmitry <dalukash@edu.hse.ru>
+Marya Deniskina <maryadns@yandex.ru>
 Marya Deniskina <maryadns@yandex.ru>
 matt_hew <matvey.rakitin@gmail.com>
 maxkway <bakolavro@ya.ru>
 maxsalo12 <46759665+maxsalo12@users.noreply.github.com>
 molotkova <molotkova548@gmail.com>
+molotkova <molotkova548@gmail.com>
 mzhigalov <mzigalov089@mail.ru>
 nickolay ipatov <nnipatov@gmail.com>
+Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 Olga Svyatkovskaya <oasvyatkovskaya@edu.hse.ru>
 palikhacheva <palikhacheva@edu.hse.ru>
 pavel_eprines <longnicakek@gmail.com>
 PolinaVin <polinvin@mail.ru>
+Sergey Zakharov <n3ffar1an@gmail.com>
 Sergey Zakharov <n3ffar1an@gmail.com>
 Sofya <sofyalopatina00@gmail.com>
 TheAD <theadwbe@gmail.com>
